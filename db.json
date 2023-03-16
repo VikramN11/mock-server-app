@@ -10,5 +10,12 @@
       "cost":"4000",
       "booked":false
     }
+  ],
+  "users" : [
+    {
+      "user" : "",
+      "useremail" : "",
+      "password" : ""
+    }
   ]
   }
